@@ -1,0 +1,121 @@
+body {
+    font-size: 15pt;
+    background-color: gray;
+    margin: 0;
+}
+ #header{
+   background-color: black;
+   height: 10vh;
+   width: 100vw;
+   border-radius: 20px;
+  margin: 0;
+ }
+ #Evento{
+   width: 100vw;
+   height: 25vh;
+   border-radius: 20px;
+   margin: 0;
+ }
+ #nome_evento{
+   background-color: black;
+   width: 100vw;
+   height: 10vh;
+   border-radius: 20px;
+   margin: 0;
+   text-align: center;
+ }
+ #titulo1{
+   margin: 0;
+   color: white;
+   
+   
+   font-size: 7vw;
+   
+ 
+ }
+ #conteudo{
+   margin: 0;
+   background-color: black;
+   border-radius: 20px;
+   width: 100vw;
+   height: 200vh;
+ }
+ #contato{
+   margin: 0;
+   background-color: black;
+   border-radius: 20px;
+   width: 100vw;
+   height: 5vh;
+   
+ }
+   
+   p{
+     margin: 0;
+     color: white;
+     text-align: justify;
+     font-size: 5vw;
+     
+     
+   }
+   #Logo{
+     margin: 0;
+     width: 15vw;
+   }
+   #img_evento{
+     margin: 0;
+     width: 100vw;
+     background-color: black;
+        width: 100vw;
+        height: 25vh;
+        border-radius: 20px;
+        margin: 0;
+     
+   }
+   #IFBA{
+     margin: 0;
+     color: white;
+     
+    
+     font-size: 4vw;
+     text-align: center;
+     
+   }
+   #Data{
+     color: white;
+     margin: 0;
+     
+   }
+   h1 {
+    color: white;
+    font-size: 6vw;
+    text-align: center;
+    margin: 0;
+   }
+   h2{
+     color: white;
+     font-size: 6vw;
+     text-align: center;
+     margin: 0;
+   }
+   h3{
+     color: white;
+     font-size: 5vw;
+     text-align: center;
+     margin: 0
+   }
+   h4{
+     color: white;
+     font-size: 5vw;
+     text-align: center;
+     margin: 0;
+     
+   }
+   #Ad{
+     width: 15vw;
+     display: flex;
+     margin: 0;
+     
+   }
+   a{
+     font-size: 4vw;
+   }
